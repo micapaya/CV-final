@@ -1,0 +1,138 @@
+/* main CSS for index.html in CV project */
+
+												/* personalised fonts */
+
+														@font-face{
+														    font-family : "maFonte";
+														    src : url('font/alienleague.ttf');
+														}
+
+												/* color from page */
+
+													/*
+														orange: #F39200
+														pink: #E61D72
+														blue: #36A9E0
+														green: #95C11E
+														purple: #662382
+														*/
+
+
+/* first title from page */
+
+	h1 {
+		font-family: 'maFonte';
+		color: grey;
+		text-align: right;
+		background-color: black;
+		padding: 6px;
+		margin:-6px;
+		font-size: 32px;
+	}
+
+				#first_w {
+					color: white;
+					font-family: 'maFonte';
+				}
+
+				#second_w {
+					color: #F39200;
+					font-family: 'maFonte';
+				}
+
+				#third_w {
+					color: #E61D72;
+					font-family: 'maFonte'
+				}
+
+/* address and url */
+	
+	.top_h2 {
+		font-family: 'maFonte';
+		color: white;
+		text-align: right;
+		background-color: black;
+		padding: 6px;
+		padding-left: -100%;
+		margin: -6px;
+		margin-top: 0px;
+		border-top: 1px solid white;
+		font-size: 18px;
+	}
+
+		a:link {
+				color: white;
+				text-decoration: none;
+		}
+
+		a:visited {
+				color: white;
+				text-decoration: none;
+		}
+
+		a:hover {
+				color: #E61D72;
+				text-decoration: none;
+		}
+
+/* title of character */
+	
+			.margin-top {
+				height: 30px;
+			}
+			.container {
+				width: 100%;
+			}
+
+			.pink {
+				font-family: 'maFonte';
+				color: white;
+				padding: 6px;
+				background-color: #E61D72;
+				width:180px;
+				margin: 0px;
+				transform: rotate(10deg);
+				text-align: center;
+			}
+
+			.orange {
+				font-family: 'maFonte';
+				color: white;
+				padding: 6px;
+				background-color: #F39200;
+				width:180px;
+				margin:0px;
+				transform: rotate(-10deg);
+				text-align: center;
+			}
+
+			.blue {
+				font-family: 'maFonte';
+				color: white;
+				padding: 6px;
+				background-color: #36A9E0;
+				width: 180px;
+				margin:0px;
+				transform: rotate(5deg);
+				text-align: center;
+			}
+
+			.green {
+				font-family: 'maFonte';
+				color: white;
+				padding: 6px;
+				background-color: #95C11E;
+				width: 180px;
+				margin: 0px;
+				transform: rotate(-5deg);
+				text-align: center;
+			}
+
+			.purple {
+				font-family: 'maFonte';
+				color: white;
+				padding: 6px;
+				background-color: #662382;
+				width: 180px;
+				margin: 0px;
+			}

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="350px" height="350px" viewBox="0 0 350 350" enable-background="new 0 0 350 350" xml:space="preserve">
+<line fill="none" stroke="#35A8E0" stroke-width="2" stroke-miterlimit="10" x1="126.982" y1="143.686" x2="168.901" y2="61.303"/>
+<g>
+	<path fill="#FFFFFF" d="M168.906,66.74c-0.17,0-0.342-0.008-0.515-0.024c-1.446-0.136-2.752-0.827-3.678-1.946
+		c-0.926-1.118-1.36-2.531-1.224-3.977c0.265-2.808,2.588-4.926,5.405-4.926c0.171,0,0.343,0.008,0.517,0.024
+		c1.445,0.136,2.752,0.827,3.678,1.945c0.926,1.119,1.36,2.531,1.224,3.977C174.049,64.622,171.725,66.74,168.906,66.74z"/>
+	<path fill="#35A8E0" d="M168.894,56.867c0.14,0,0.28,0.007,0.422,0.02c2.44,0.229,4.231,2.393,4,4.832
+		c-0.215,2.297-2.147,4.021-4.41,4.021c-0.139,0-0.279-0.007-0.421-0.02c-2.44-0.229-4.23-2.393-4-4.833
+		C164.702,58.589,166.633,56.868,168.894,56.867 M168.895,54.867L168.895,54.867c-3.336,0-6.087,2.507-6.401,5.832
+		c-0.161,1.712,0.354,3.384,1.45,4.708c1.096,1.325,2.643,2.143,4.354,2.304c0.205,0.019,0.407,0.029,0.608,0.029
+		c3.338,0,6.09-2.508,6.401-5.834c0.162-1.71-0.353-3.382-1.449-4.707c-1.096-1.325-2.643-2.143-4.355-2.303
+		C169.3,54.877,169.097,54.867,168.895,54.867L168.895,54.867z"/>
+</g>
+<rect x="27.532" y="151.905" transform="matrix(0.8595 -0.5111 0.5111 0.8595 -74.5736 53.0372)" fill="#35A8E0" width="63.319" height="20.536"/>
+<polyline fill="none" stroke="#35A8E0" stroke-width="2" stroke-miterlimit="10" points="129.991,143.152 192.209,176.503 
+	221.824,177.018 "/>
+<line fill="none" stroke="#35A8E0" stroke-width="2" stroke-miterlimit="10" x1="127.702" y1="142.925" x2="87.593" y2="196.96"/>
+<polyline fill="none" stroke="#35A8E0" stroke-width="2" stroke-miterlimit="10" points="6.525,205.117 96.65,152.026 
+	128.621,142.817 "/>
+<g>
+	
+		<text transform="matrix(0.8595 -0.5111 0.5111 0.8595 36.6357 182.332)" fill="#FFFFFF" font-family="'AlienLeague'" font-size="15.71">PARCOURS</text>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M127.702,150.412c-4.128,0-7.486-3.358-7.486-7.487s3.358-7.487,7.486-7.487
+		c4.128,0,7.487,3.358,7.487,7.487S131.831,150.412,127.702,150.412z"/>
+	<path fill="#35A8E0" d="M127.702,136.438c3.583,0,6.487,2.904,6.487,6.487c0,3.583-2.904,6.487-6.487,6.487
+		c-3.583,0-6.486-2.904-6.486-6.487C121.216,139.342,124.12,136.438,127.702,136.438 M127.702,134.438
+		c-4.679,0-8.486,3.807-8.486,8.487s3.807,8.487,8.486,8.487c4.68,0,8.487-3.807,8.487-8.487S132.382,134.438,127.702,134.438
+		L127.702,134.438z"/>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M87.59,202.397c-0.856,0-1.714-0.208-2.48-0.602c-1.292-0.663-2.248-1.79-2.692-3.172
+		c-0.444-1.383-0.323-2.855,0.34-4.147c0.935-1.821,2.789-2.953,4.839-2.953c0.856,0,1.713,0.208,2.479,0.601
+		c1.292,0.663,2.249,1.79,2.693,3.173c0.444,1.382,0.323,2.855-0.34,4.147C91.492,201.266,89.639,202.397,87.59,202.397z"/>
+	<path fill="#35A8E0" d="M87.597,192.523c0.682,0,1.374,0.157,2.022,0.49c2.18,1.119,3.04,3.793,1.919,5.974
+		c-0.786,1.53-2.339,2.41-3.948,2.41c-0.682,0-1.375-0.157-2.023-0.491c-2.181-1.119-3.04-3.793-1.919-5.973
+		C84.433,193.403,85.987,192.523,87.597,192.523 M87.597,190.523L87.597,190.523c-2.427,0-4.622,1.34-5.729,3.497
+		c-0.786,1.528-0.929,3.272-0.403,4.909s1.658,2.971,3.188,3.756c0.905,0.466,1.921,0.712,2.936,0.712
+		c2.425,0,4.62-1.34,5.728-3.497c0.786-1.529,0.929-3.273,0.403-4.91c-0.526-1.637-1.658-2.971-3.188-3.756
+		C89.625,190.77,88.611,190.523,87.597,190.523L87.597,190.523z"/>
+</g>
+<text transform="matrix(1 0 0 1 98.5811 195.6123)" fill="#1D1D1B" font-family="'AlienLeague'" font-size="10.4733">2004</text>
+<g>
+	<text transform="matrix(1 0 0 1 98.5703 207.5918)" fill="#35A8E0" font-family="'AlienLeague'" font-size="10.4733">2008</text>
+</g>
+<line fill="none" stroke="#575756" stroke-miterlimit="10" x1="98.28" y1="197.895" x2="174.497" y2="197.858"/>
+<polygon fill="#1D1D1B" points="187.256,209.897 133.062,209.897 120.69,197.824 174.497,197.858 "/>
+<text transform="matrix(1 0 0 1 134.8979 207.8623)" fill="#FFFFFF" font-family="'AlienLeague'" font-size="10.4733">Militaire</text>
+<text transform="matrix(1 0 0 1 176.3477 51.3154)" fill="#1D1D1B" font-family="'AlienLeague'" font-size="10.4733">2008</text>
+<text transform="matrix(1 0 0 1 177.3428 65.0063)" fill="#35A8E0" font-family="'AlienLeague'" font-size="10.4733">2010</text>
+<line fill="none" stroke="#575756" stroke-miterlimit="10" x1="176.059" y1="53.597" x2="259.698" y2="53.562"/>
+<polygon fill="#1D1D1B" points="272.458,65.603 210.84,65.603 198.469,53.528 259.698,53.562 "/>
+<text transform="matrix(1 0 0 1 212.8184 63.5649)" fill="#FFFFFF" font-family="'AlienLeague'" font-size="10.4733">Magasinier</text>
+<rect x="113.971" y="215.851" fill="none" width="70.735" height="80.431"/>
+<text transform="matrix(1 0 0 1 116.6934 223.3281)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Tireur FRF2 au sein </tspan><tspan x="7.52" y="12.568" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">des groupements </tspan><tspan x="28.644" y="25.137" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">commando </tspan><tspan x="19.92" y="37.704" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">parachutiste à </tspan><tspan x="29.074" y="50.272" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Balma (31)</tspan></text>
+<rect x="199.736" y="72.126" fill="none" width="70.735" height="78.15"/>
+<text transform="matrix(1 0 0 1 214.8291 79.604)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Responsable du </tspan><tspan x="-13.95" y="12.568" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">rayon diététique à la </tspan><tspan x="4.44" y="25.136" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">parapharmacie </tspan><tspan x="2.126" y="37.704" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Lafayette Santé </tspan><tspan x="31.408" y="50.272" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Beauté</tspan><tspan x="7.017" y="62.84" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Toulouse (31)</tspan></text>
+<text transform="matrix(1 0 0 1 229.5352 173.0244)" fill="#1D1D1B" font-family="'AlienLeague'" font-size="10.4733">2008</text>
+<text transform="matrix(1 0 0 1 230.5293 186.7158)" fill="#35A8E0" font-family="'AlienLeague'" font-size="10.4733">2015</text>
+<line fill="none" stroke="#575756" stroke-miterlimit="10" x1="229.238" y1="175.305" x2="327.724" y2="175.27"/>
+<polygon fill="#1D1D1B" points="345.432,187.31 264.02,187.31 251.648,175.236 327.724,175.27 "/>
+<text transform="matrix(1 0 0 1 268.1426 185.2744)" fill="#FFFFFF" font-family="'AlienLeague'" font-size="10.4733">entrepreneur</text>
+<rect x="247.783" y="193.835" fill="none" width="75.868" height="114.09"/>
+<text transform="matrix(1 0 0 1 273.4531 201.3125)"><tspan x="0" y="0" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">Création d&apos;une </tspan><tspan x="-23.669" y="12.568" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">entreprise spécialisée </tspan><tspan x="-20.568" y="25.137" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">dans la communica</tspan><tspan x="46.902" y="25.137" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">-</tspan><tspan x="-16.097" y="37.704" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">tion graphique et la </tspan><tspan x="-20.569" y="50.272" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">photograhie et vidéo </tspan><tspan x="-8.158" y="62.84" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">à destination des </tspan><tspan x="-6.807" y="75.408" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">groupes de rock </tspan><tspan x="-20.171" y="87.977" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">dans toute la France </tspan><tspan x="2.713" y="100.544" fill="#1D1D1B" font-family="'HelveticaNeueLTStd-ThCn'" font-size="10.4733">et à l’étranger</tspan></text>
+<g>
+	<path fill="#FFFFFF" d="M221.825,182.455c-2.412,0-4.503-1.553-5.204-3.862c-0.868-2.869,0.759-5.909,3.627-6.778
+		c0.514-0.156,1.045-0.235,1.578-0.235c2.411,0,4.501,1.552,5.2,3.862c0.868,2.866-0.759,5.906-3.625,6.778
+		C222.887,182.376,222.356,182.455,221.825,182.455z"/>
+	<path fill="#35A8E0" d="M221.826,172.58c1.903,0,3.663,1.236,4.243,3.152c0.71,2.345-0.614,4.819-2.959,5.532
+		c-0.428,0.129-0.86,0.191-1.285,0.191c-1.905,0-3.666-1.236-4.247-3.152c-0.71-2.346,0.615-4.821,2.96-5.531
+		C220.967,172.642,221.4,172.58,221.826,172.58 M221.826,170.58L221.826,170.58c-0.632,0-1.26,0.093-1.869,0.278
+		c-3.395,1.028-5.321,4.628-4.293,8.024c0.829,2.735,3.306,4.573,6.161,4.573c0.63,0,1.257-0.094,1.864-0.277
+		c3.396-1.032,5.321-4.632,4.294-8.025C227.155,172.417,224.682,170.58,221.826,170.58L221.826,170.58z"/>
+</g>
+</svg>
